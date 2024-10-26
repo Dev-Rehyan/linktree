@@ -24,6 +24,9 @@ A personal Linktree-style page to share my professional links and profiles. This
 1. Clone the repository.
 2. Open `index.html` in a web browser to view the Linktree.
 
+<img width="1439" alt="Screenshot 2024-10-26 at 12 50 16" src="https://github.com/user-attachments/assets/76bf85ba-5cb5-4ed7-9ccb-dda0551cec76">
+
+
 ## MIT License
 
 Copyright (c) 2024 Dev-Rehyan - Rehyan Rhoden
